@@ -1,7 +1,7 @@
 # CatapultUnity
 Unity Project implementing the Catapult
 
-Unity 5.5.2f1 - Switch to Android Platform before running the Project  in Editor
+Unity 5.5.2f1 - Switch to Android Platform before running the Project  in Editor and Enable Maximize on Play for better view.
 
 The project defines only the functionality in the Free Aspect of the Camera in Editor. Cases such as different resolutions are not tested.
 
